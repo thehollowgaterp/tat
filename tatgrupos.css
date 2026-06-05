@@ -4,11 +4,11 @@ content:'\ea26';
 }
 a.graci em:before {
 font-family:'game-icons';
-content: '\e070';
+content: '\fe23';
 }
 a.grcazadoresregistrados em:before {
-font-family:'game-icons';
-content:'\e01b';
+font-family:'cappuccicons';
+content:'\e9c1';
 }
 a.grcazadoresclandestinos em:before {
 font-family:'cappuccicons';
@@ -16,11 +16,11 @@ content:'\ec81';
 }
 a.grcazadoresproductivos em:before {
 font-family:'game-icons';
-content:'\e974';
+content:'\f0d3';
 }
 a.grservidorespublicos em:before {
 font-family:'game-icons';
-content:'\e001';
+content:'\faf1';
 }
 a.grciviles em:before {
 font-family:'Font Awesome 5 Pro';
