@@ -1,68 +1,41 @@
-a.gralcaides em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f4c3';
-}
-a.grhufflepuff em:before {
+a.grconstelaciones em:before {
 font-family:'cappuccicons';
-content: '\e92b';
+content:'\ea26';
 }
-a.grgryffindor em:before {
+a.graci em:before {
+font-family:'game-icons';
+content: '\e070';
+}
+a.grcazadoresregistrados em:before {
+font-family:'game-icons';
+content:'\e01b';
+}
+a.grcazadoresclandestinos em:before {
 font-family:'cappuccicons';
-content:'\eb64';
+content:'\ec81';
 }
-a.grravenclaw em:before {
-font-family:'cappuccicons';
-content:'\ea76';
+a.grcazadoresproductivos em:before {
+font-family:'game-icons';
+content:'\e974';
 }
-a.grslytherin em:before {
-font-family:'cappuccicons';
-content:'\ea0b';
+a.grservidorespublicos em:before {
+font-family:'game-icons';
+content:'\e001';
 }
-a.grintercambio em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f5f6';
-}
-a.grhogwarts em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f549';
-}
-a.grministerio em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f24e';
-}
-a.grsanmungo em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f47d';
-}
-a.grquidditch em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f458';
-}
-a.grprensa em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f1ea';
-}
-a.grnegocios em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f54e';
-}
-a.grciudadanos em:before {
+a.grciviles em:before {
 font-family:'Font Awesome 5 Pro';
 font-weight: 900;
 content:'\f64f';
 }
-a.grcriminales em:before {
+a.grestudiantes em:before {
 font-family:'Font Awesome 5 Pro';
 font-weight: 900;
-content:'\f630';
+content:'\f19d';
+}
+a.grnpcs em:before {
+font-family:'Font Awesome 5 Pro';
+font-weight: 900;
+content:'\f234';
 }
 a.grfallecidos em:before {
 font-family:'Font Awesome 5 Pro';
