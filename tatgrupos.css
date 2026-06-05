@@ -4,33 +4,31 @@ content:'\ea26';
 }
 a.graci em:before {
 font-family:'game-icons';
-content: '\fe23';
+content: '\fe37';
 }
 a.grcazadoresregistrados em:before {
-font-family:'cappuccicons';
-content:'\e9c1';
+font-family:'IcoFont';
+content:'\e810';
 }
 a.grcazadoresclandestinos em:before {
-font-family:'cappuccicons';
-content:'\ec81';
+font-family:'IcoFont';
+content:'\e81d';
 }
 a.grcazadoresproductivos em:before {
 font-family:'game-icons';
 content:'\f0d3';
 }
-a.grservidorespublicos em:before {
-font-family:'game-icons';
-content:'\faf1';
+a.grservidoresciviles em:before {
+font-family:'IcoFont';
+content:'\ebb6';
 }
 a.grciviles em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f64f';
+font-family:'game-icons';
+content:'\f982';
 }
 a.grestudiantes em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f19d';
+font-family:'IcoFont';
+content:'\eaec';
 }
 a.grnpcs em:before {
 font-family:'Font Awesome 5 Pro';
@@ -38,7 +36,6 @@ font-weight: 900;
 content:'\f234';
 }
 a.grfallecidos em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f720';
+font-family:'game-icons';
+content:'\f6d7';
 }
