@@ -3,16 +3,16 @@ font-family:'cappuccicons';
 content:'\ea26';
 }
 a.graci em:before {
-font-family:'game-icons';
-content: '\fe37';
+font-family:'cappuccicons';
+content: '\e911';
 }
 a.grcazadoresregistrados em:before {
 font-family:'IcoFont';
 content:'\e810';
 }
 a.grcazadoresclandestinos em:before {
-font-family:'IcoFont';
-content:'\e81d';
+font-family:'game-icons';
+content:'\f422';
 }
 a.grcazadoresproductivos em:before {
 font-family:'game-icons';
@@ -31,9 +31,8 @@ font-family:'IcoFont';
 content:'\eaec';
 }
 a.grnpcs em:before {
-font-family:'Font Awesome 5 Pro';
-font-weight: 900;
-content:'\f234';
+font-family:'IcoFont';
+content:'\ec8f';
 }
 a.grfallecidos em:before {
 font-family:'game-icons';
