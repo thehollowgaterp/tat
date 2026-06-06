@@ -1,0 +1,174 @@
+/* MODIFICACIÓN A TABLA ADMINISTRATIVA */
+
+.tatt100 {
+  width: 100%;
+}
+
+.tattad1 {
+  background-color: var(--fondo);
+  background-image: url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: var(--fondo-blend);
+  border: var(--border1);
+  height: 100px;
+  text-align: center;
+  justify-content: center;
+}
+
+.tablilla .tattad1:before {
+  content: "";
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 100px;
+  top: 0px;
+  background: var(--group);
+}
+
+.tablilla .tabhead>b {
+  line-height: 115px;
+}
+
+.tattad2 {
+  display: flex;
+  justify-content: left;
+}
+
+#tattad3 {
+  font-size: 19px;
+  margin-right: 10px;
+  position: relative;
+  top: 1px;
+  color: var(--group);
+}
+
+/* MODIFICACIÓN A BAÚL */
+
+.baul .blhead:before {
+  content: "";
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 90px;
+  top: 0px;
+  background: var(--group);
+}
+
+/* MODIFICACIÓN A BÚSQUEDA DE PERSONAJE */
+
+.bqhead {
+  background-color: var(--fondo);
+  background-image: url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: var(--fondo-blend);
+}
+
+.bqhead:before {
+  background: var(--group);
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+}
+
+/* MODIFICACIÓN A LA TABLA DE LOS GRUPOS */
+
+.tattgr1 {
+  background-color: var(--fondo);
+  background-image: url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: var(--fondo-blend);
+  border-bottom: var(--border1);
+}
+
+.tabgrupos .tabhead:before {
+  background: var(--group);
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+}
+
+/* MODIFICACIÓN A LA TABLA DE REGISTROS */
+
+.tattreg1 {
+  padding-top: 10px!important;
+  padding-bottom: 10px!important;
+  padding-right: 10px!important;
+}
+
+.tattreg1a {
+  padding-top: 10px!important;
+  padding-bottom: 10px!important;
+  padding-right: 10px!important;
+  column-count: 2;
+}
+
+.tattreg2 {
+  margin-bottom: 0px!important;
+}
+
+/* MODIFICACIÓN A LA TABLA DE LA TIENDA */
+
+.tienda .tdhead:before {
+  content: "";
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 110px;
+  top: 0px;
+  background: var(--constelaciones);
+}
+
+.tattti1 {
+  background-color: var(--fondo);
+  background-image: url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: var(--fondo-blend);
+  border-bottom: var(--border1);
+}
+
+/* MODIFICACIÓN A LA TABLA DE TELÉFONO */
+
+.tattel1 {
+  background-color: var(--fondo);
+  background-image: url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-blend-mode: var(--fondo-blend);
+  border-bottom: var(--border1);
+}
+
+.phone .phohead:before {
+  content: "";
+  mix-blend-mode: soft-light;
+  opacity: .8;
+  backdrop-filter: brightness(0.9) contrast(1.1) blur(2px);
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 110px;
+  top: 0px;
+  background: var(--group);
+}
