@@ -1,1 +1,0 @@
-.baul .blhead:before {content:"";mix-blend-mode:soft-light;opacity:.8;backdrop-filter:brightness(0.9) contrast(1.1) blur(2px);width:100%;position:absolute;z-index:-1;height:90px;top:0px;background:var(--group);}
