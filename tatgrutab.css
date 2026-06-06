@@ -1,92 +1,62 @@
-.tabgrupos[grupo="curador"] {
---group:var(--curador);
---group-50:var(--curador-50);
---group-25:var(--curador-25);
---group-15:var(--curador-15);
+.tabgrupos[grupo="dios-externo"] {
+--group:var(--dios-externo);
+--group-50:var(--dios-externo-50);
+--group-25:var(--dios-externo-25);
+--group-15:var(--dios-externo-15);
 }
-.tabgrupos[grupo="alcaides"] {
---group:var(--alcaides);
---group-50:var(--alcaides-50);
---group-25:var(--alcaides-25);
---group-15:var(--alcaides-15);
+.tabgrupos[grupo="constelaciones"] {
+--group:var(--constelaciones);
+--group-50:var(--constelaciones-50);
+--group-25:var(--constelaciones-25);
+--group-15:var(--constelaciones-15);
 }
-.tabgrupos[grupo="hufflepuff"] {
---group:var(--hufflepuff);
---group-50:var(--hufflepuff-50);
---group-25:var(--hufflepuff-25);
---group-15:var(--hufflepuff-15);
+.tabgrupos[grupo="aci"] {
+--group:var(--aci);
+--group-50:var(--aci-50);
+--group-25:var(--aci-25);
+--group-15:var(--aci-15);
 }
-.tabgrupos[grupo="gryffindor"] {
---group:var(--gryffindor);
---group-50:var(--gryffindor-50);
---group-25:var(--gryffindor-25);
---group-15:var(--gryffindor-15);
+.tabgrupos[grupo="cazadores-registrados"] {
+--group:var(--cazadores-registrados);
+--group-50:var(--cazadores-registrados-50);
+--group-25:var(--cazadores-registrados-25);
+--group-15:var(--cazadores-registrados-15);
 }
-.tabgrupos[grupo="ravenclaw"] {
---group:var(--ravenclaw);
---group-50:var(--ravenclaw-50);
---group-25:var(--ravenclaw-25);
---group-15:var(--ravenclaw-15);
+.tabgrupos[grupo="cazadores-clandestinos"] {
+--group:var(--cazadores-clandestinos);
+--group-50:var(--cazadores-clandestinos-50);
+--group-25:var(--cazadores-clandestinos-25);
+--group-15:var(--cazadores-clandestinos-15);
 }
-.tabgrupos[grupo="slytherin"] {
---group:var(--slytherin);
---group-50:var(--slytherin-50);
---group-25:var(--slytherin-25);
---group-15:var(--slytherin-15);
+.tabgrupos[grupo="cazadores-productivos"] {
+--group:var(--cazadores-productivos);
+--group-50:var(--cazadores-productivos-50);
+--group-25:var(--cazadores-productivos-25);
+--group-15:var(--cazadores-productivos-15);
 }
-.tabgrupos[grupo="intercambio"] {
---group:var(--intercambio);
---group-50:var(--intercambio-50);
---group-25:var(--intercambio-25);
---group-15:var(--intercambio-15);
+.tabgrupos[grupo="servidores-civiles"] {
+--group:var(--servidores-civiles);
+--group-50:var(--servidores-civiles-50);
+--group-25:var(--servidores-civiles-25);
+--group-15:var(--servidores-civiles-15);
 }
-.tabgrupos[grupo="hogwarts"] {
---group:var(--hogwarts);
---group-50:var(--hogwarts-50);
---group-25:var(--hogwarts-25);
---group-15:var(--hogwarts-15);
+.tabgrupos[grupo="civiles"] {
+--group:var(--civiles);
+--group-50:var(--civiles-50);
+--group-25:var(--civiles-25);
+--group-15:var(--civiles-15);
 }
-.tabgrupos[grupo="ministerio"] {
---group:var(--ministerio);
---group-50:var(--ministerio-50);
---group-25:var(--ministerio-25);
---group-15:var(--ministerio-15);
+.tabgrupos[grupo="estudiantes"] {
+--group:var(--estudiantes);
+--group-50:var(--estudiantes-50);
+--group-25:var(--estudiantes-25);
+--group-15:var(--estudiantes-15);
 }
-.tabgrupos[grupo="san-mungo"] {
---group:var(--san-mungo);
---group-50:var(--san-mungo-50);
---group-25:var(--san-mungo-25);
---group-15:var(--san-mungo-15);
-}
-.tabgrupos[grupo="quidditch"] {
---group:var(--quidditch);
---group-50:var(--quidditch-50);
---group-25:var(--quidditch-25);
---group-15:var(--quidditch-15);
-}
-.tabgrupos[grupo="prensa"] {
---group:var(--prensa);
---group-50:var(--prensa-50);
---group-25:var(--prensa-25);
---group-15:var(--prensa-15);
-}
-.tabgrupos[grupo="negocios"] {
---group:var(--negocios);
---group-50:var(--negocios-50);
---group-25:var(--negocios-25);
---group-15:var(--negocios-15);
-}
-.tabgrupos[grupo="ciudadanos"] {
---group:var(--ciudadanos);
---group-50:var(--ciudadanos-50);
---group-25:var(--ciudadanos-25);
---group-15:var(--ciudadanos-15);
-}
-.tabgrupos[grupo="criminales"] {
---group:var(--criminales);
---group-50:var(--criminales-50);
---group-25:var(--criminales-25);
---group-15:var(--criminales-15);
+.tabgrupos[grupo="npcs"] {
+--group:var(--npcs);
+--group-50:var(--npcs-50);
+--group-25:var(--npcs-25);
+--group-15:var(--npcs-15);
 }
 .tabgrupos[grupo="fallecidos"] {
 --group:var(--fallecidos);
