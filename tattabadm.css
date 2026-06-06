@@ -1,11 +1,11 @@
-.fet100 {width:100%;}
+.tatt100 {width:100%;}
 
-.fetad1 {background-color:var(--fondo);background-image:url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);background-position:center;background-size:cover;background-attachment:fixed;background-repeat:no-repeat;background-blend-mode:var(--fondo-blend);border:var(--border1);height:100px;text-align:center;justify-content:center;}
+.tatad1 {background-color:var(--fondo);background-image:url(https://images2.imgbox.com/a8/38/jsvHQeyo_o.png);background-position:center;background-size:cover;background-attachment:fixed;background-repeat:no-repeat;background-blend-mode:var(--fondo-blend);border:var(--border1);height:100px;text-align:center;justify-content:center;}
 
 .tablilla .fetad1:before {content:"";mix-blend-mode:soft-light;opacity:.8;backdrop-filter:brightness(0.9) contrast(1.1) blur(2px);width:100%;position:absolute;z-index:-1;height:100px;top:0px;background:var(--group);}
 
 .tablilla .tabhead>b {line-height:115px;}
 
-.fetad2 {display:flex;justify-content:left;}
+.tattad2 {display:flex;justify-content:left;}
 
-#fetad3 {font-size:19px;margin-right:10px;position:relative;top:1px;color:var(--group);}
+#tattad3 {font-size:19px;margin-right:10px;position:relative;top:1px;color:var(--group);}
